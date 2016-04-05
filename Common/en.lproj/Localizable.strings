@@ -1,0 +1,254 @@
+/* 
+  Localizable.strings
+  Common
+
+  Created by Ling on 16/3/12.
+  Copyright © 2016年 Smartmovt. All rights reserved.
+*/
+
+//"输入昵称" = "Enter your nickname";
+//"选择您的性别" = "Select your sex";
+//"输入您的生日" = "Enter your birthday";
+//"选择您的身高" = "Enter your height";
+//"输入您的体重" = "Enter your weight";
+//"选择您的血型" = "Select blood type";
+//"选择您常用的单位制" = "Select system units";
+
+
+//"选择您的性别" = "Select your sex";
+//"输入您的生日" = "Enter your birthday";
+//"选择您的身高" = "Enter your height";
+//"输入您的体重" = "Enter your weight";
+//"选择您的血型" = "Select blood type";
+//"选择您常用的单位制" = "Select system units";
+
+
+//关于系统
+"关于系统" = "About system";
+"智能科技" = "Smart Movt Technology";
+"设备固件版本" = "Device firmware version";
+"设备电量" = "Electricity of device";
+"功能说明" = "Function declaration";
+"访问官网" = "Visit the website";
+"请连接手表" = "Connect";
+"设备固件升级" = "Device firmware upgrade";
+"应用版本" = "Application version";
+"固件升级请保持手表与手机处于连接状态" = "Keep connecting between watch and cellphone when firmware is upgrading";
+
+//添加应用
+"勿扰模式" = "Don’t disturb mode";
+"邮件提醒" = "Mail reminder";
+"来电提醒" = "Call reminder";
+"短信提醒" = "Message reminder";
+"QQ" = "QQ";
+"微信提醒" = "WeChat";
+"新浪微博" = "Sina weibo";
+"腾讯微博" = "Tencent weibo";
+"陌陌" = "Momo";
+"知乎" = "Zhihu";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+"Linkdle" = "Linkdle";
+"Whatsapp" = "Whatsapp";
+"Tumblr" = "Tumblr";
+"Line" = "Line";
+"添加应用" = "Add App";
+"智能提醒" = "Intelligent Alerts";
+"点击加号,可以添加更多APP提醒项目哦" = "Click on the plus sign, you can add more APP remind project";
+//健康提醒
+"添加" = "Add";
+"健康提醒" = "Health Alerts";
+"久坐提醒" = "Sedentary alerts";
+"整点提醒" = "Point of alerts";
+"睡眠提醒" = "Sleeping alerts";
+"吃药提醒" = "Medication reminder";
+"每天08:00到12:00期间120分钟内不动手表将发出提醒" = "Your watch will give the alarm if you sit for 120 Mins everyday from 08:00 AM to 12:00 PM.";
+"每到整点手表将发出提醒" = "Your watch will give the alarm every arrive when integral point";
+"每天23:00如检测到还未入睡手表将发出提醒" = "Your watch will give the alarm if you are still awake until 23:00 PM every night";
+"每天11:30时手表将发出提醒" = "Your watch will give the alarm at 11:30 AM every day to remind you to take medicine.";
+"点击加号,可以设置自定义提醒" = "Click plus sign,config user-defined remindeer";
+"久坐时长" = "Sedentary time";
+"开始时间" = "Start";
+"结束时间" = "End";
+"间隔时间" = "Spaceing time";
+"新建健康提醒" = "New Healthy alerts";
+"设置时间" = "Time setting";
+"时间" = "Time";
+"标题" = "Title";
+"备注" = "Remark";
+"填写不超过20个字的备注" = "less than 20 words";
+"久坐编辑" = "Sedentary Edit";
+"输入不超过8个字的标题" = "Enter the title with no more than 8 words";
+"手表没有连接" = "The watch is not connected";
+"正在连接" = "connecting";
+
+// 我的设备
+"我的设备" = "My Device";
+"打开设备蓝牙并靠近手机" = "Turn on the BLE and get close to your phone";
+"搜索设备                 " = "Search";
+"解除绑定                 " = "Unbound              ";
+"智能防丢                 " = "Intelligent anti lost";
+"正在连接设备..." = "Connecting";
+"设备发出连接反馈时晃动设备进行确认" = "Shake your device to confirm the connection";
+"下拉页面重新搜索" = "Pull down to research";
+"绑定成功" = "Bound successed";
+"长按开启设备蓝牙" = "Long press to turn on the BLE";
+"断开连接" = "Disconnected";
+"松开手即可重新搜索设备" = "Release to research the device.";
+"设备配对" = "Equipment matching";
+"智芯手表" = "SMOVT WATCH";
+"正在请求授权，请摇晃手表" = "Is requesting authorization, please shake the watch";
+"配对成功" = "Matching success";
+"下拉页面重新连接" = "Down the page to reconnect";
+"打开设备蓝牙并靠近手机" = "Open and close the phone and the Bluetooth device";
+
+// 首页
+"个人" = "Information";
+"关于" = "About";
+"我的设备" = "My Device";
+"智能提醒" = "Reminder";
+"智能闹钟" = "Health Alarm";
+"智能校时" = "Timing";
+"运动" = "Sports Health";
+"睡眠" = "Sleep";
+"拍照" = "Photograph";
+"登山/潜水" = "Mountaineering&Diving";
+"心率" = "Heart Rate";
+"健康提醒" = "Health Alerts";
+"紫外线" = "UV";
+
+"已连接" = "Connected";
+"未连接" = "Disconnected";
+
+// 个人
+"性别" = "Sex";
+"生日" = "Date of birth";
+"身高" = "Height";
+"体重" = "Weight";
+"血型" = "Blood type";
+"单位制" = "Units";
+
+"选择性别" = "Select your sex";
+"选择生日" = "Enter your birthday";
+"选择身高" = "Enter your height";
+"选择体重" = "Enter your weight";
+"选择血型" = "Select blood type";
+"选择单位制" = "Select system units";
+
+"相册" =  "Photo album";
+
+"更改头像" =  "Change the picture";
+
+"取消" = "Cancel";
+"确认" = "Confirm";
+"确定" = "Confirm";
+
+"男" = "Male";
+"女" = "Female";
+
+
+"厘米" = "cm";
+
+"千克" = "kg";
+
+"A血型" = "Type A blood";
+"B血型" = "Type B blood";
+"AB血型" = "Type AB blood";
+"O血型" = "Type O blood";
+"H血型" = "Type H blood";
+
+
+"公制" = "Metric";
+"英制" = "Inch";
+"千米" = "Km";
+"有效时间" = "Active time";
+"卡" = "Cal";
+
+
+"智能表芯" = "SMOVT";
+
+//校时
+"自动同步手机时间"="Keep cellphone clock autosyn";
+"点击相应数字进入相应时间调整" = "Click on the corresponding figures for time correction";
+
+// App Name
+//"Bundle display name" = "SMOVT";
+
+// 闹钟
+"贪睡未开启" = "Snooze timer not open";
+"贪睡 " = "Snooze timer";
+"分钟" = "min";
+
+"健康闹钟" = "Health Alarm";
+"正在同步闹钟..." = "Syncing alarm clock ...";
+"最后更新" = "Latest Update";
+"无记录" = "No Record";
+"下拉可以刷新" = "Drop down to refresh";
+"松开立即刷新" = "Release immediately refresh";
+"正在刷新数据中..." = "Refreshing data ...";
+
+"重复设置" = "Repeat Setting";
+"贪睡时间" = "Snooze timer";
+"每天" = "Every Day";
+"闹钟设置" = "Clock Setting";
+"设置闹钟" = "Setting Clock";
+
+// 运动
+"运动健康" = "Sports Health";
+"今天" = "Today";
+"一周" = "Week";
+"一个月" = "Month";
+
+"今日步数" = "Today Steps";
+"目标" = "Goal";
+
+"大卡" = "Cal";
+"活跃时间" = "Active time";
+"公里" = "Km";
+
+"时分数据表" = "Time data sheet";
+
+"总睡眠时间" = "Total time of sleep";
+"时" = "h";
+"分" = "min";
+
+//个人
+"性别" = "Sex";
+"生日" = "Birthday";
+"身高" = "Height";
+"体重" = "Weight";
+"血型" = "Blood type";
+"单位制" = "Unit system";
+
+//"大卡" = "Cal";
+//"活跃时间" = "Active time";
+//"公里" = "Km";
+"深睡时间" = "Deep sleep time";
+"浅睡时间" = "Light sleep time";
+"醒着时间" = "Clear-headed time";
+
+// 登山潜水
+"登山" = "Mountaineering";
+"潜水" = "Diving";
+"登山数据" = "Height record";
+"深度记录" = "Deeper record";
+
+// 心率
+"区间" = "Zone";
+"暂停" = "Pause";
+
+// 校时
+"自动同步手机时间" = "Auto-sync phone time";
+"点击相应数字进行时间校正" = "Click the appropriate digital time correction";
+"您当前位于" = "You are currently located";
+"区" = "Time zone";
+"确定" = "Confirm";
+// 我的设备
+"智能防丢" = "Intelligent anti lost";
+"设备配对" = "Device pairing";
+
+
+// 健康提醒
+"开始时间" = "Starting time";
+"下一项" = "Next";
+"时间  " = "Time";
